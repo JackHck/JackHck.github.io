@@ -24,7 +24,7 @@ I current work in Lixiang Auto. Before I work, I was a master student and was fo
 - University of Jilin university - B.S. in Information and Computer Science. 
 
 ## 👨‍💻 Industrial Experience
-- 4Paradigm  (Redmond) - Research Intern
+- 4Paradigm  - Research Intern
 <br> 2022.06-2022.10
 - Lixiang Auto - Algorithm Engineer
 <br> 2023.06-Now
