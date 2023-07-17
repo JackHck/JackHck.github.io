@@ -2,7 +2,7 @@ I current work in Lixiang Auto. Before I work, I was a master student and was fo
 
 **Research Interests**: My current research interests are **Data-centric AI , 3D vision, Automatic Drive** .My academic goal is to popularize autonomous driving technology in all areas of people's lives, and to research more efficient and trustworthy AI technologies for human development.
 
-**If you are interested in my research and want to discuss relevant research topic or potential collaborations! free to send me an e-mail:smile:**
+**If you are interested in my research and want to discuss relevant research topic or potential collaborations! free to send me an e-mail.:smile:**
 
 ## 📝 Selected Publications
 
