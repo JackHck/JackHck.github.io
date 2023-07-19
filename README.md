@@ -1,12 +1,16 @@
-I current work in Lixiang Auto. Before I work, I was a master student and was fortunated to be advised by Prof. [Tianyi Zhou](https://tianyizhou.github.io/), [Jieyu Zhang](https://jieyuz2.github.io/) and [Haonan wang](https://charles-haonan-wang.me/). Currently, I fouses on the 3D vision and dose some interesting reserach advised by Prof. [Huazhe Xu](http://hxu.rocks/) and Prof. [Lin Shao](https://linsats.github.io/). 
 
-**Research Interests**: My current research interests are **Data-centric AI , 3D vision, Automatic Drive** .My academic goal is to popularize autonomous driving technology in all areas of people's lives, and to research more efficient and trustworthy AI technologies for human development.
+I am currently employed at Lixiang Auto. Prior to this, I pursued my Master's degree, where I had the privilege of being advised by Prof. [Tianyi Zhou](https://tianyizhou.github.io/), [Jieyu Zhang](https://jieyuz2.github.io/), and  [Haonan wang](https://charles-haonan-wang.me/). Currently, I focused on 3D vision and conducted exciting research projects under the guidance of Prof. [Huazhe Xu](http://hxu.rocks/) and Prof. [Lin Shao](https://linsats.github.io/). 
 
-**If you are interested in my research and want to discuss relevant research topic or potential collaborations! free to send me an e-mail.:smile:**
+
+
+
+**Research Interests**: My current research interests are **Data-centric AI , 3D vision, Automatic Drive**. My academic goal is to advance the widespread adoption of automatic drive technology in various aspects of human life. Additionally, I aim to conduct research aimed at developing more efficient and reliable AI technologies that contribute to the progress of humanity.
+
+
+**If you are interested in my research and want to discuss relevant research topic or potential collaborations, free to send me an e-mail.😄**
 
 ## 📝 Selected Publications
 
-### Peer-reviewed
 - [When to Learn What: Model-Adaptive Data Augmentation Curriculum]()
 <br>**Chengkai Hou**, Jieyu Zhang, Tianyi Zhou.
 <br>*ICCV 2023*.
@@ -25,9 +29,9 @@ I current work in Lixiang Auto. Before I work, I was a master student and was fo
 
 ## 👨‍💻 Industrial Experience
 - 4Paradigm  - Research Intern
-<br> 2022.06-2022.10
+<br> 2022.06 - 2022.10
 - Lixiang Auto - Algorithm Engineer
-<br> 2023.06-Now
+<br> 2023.06 - Now
 
 
 ## 📫 Contact
