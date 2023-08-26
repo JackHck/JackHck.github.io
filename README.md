@@ -35,5 +35,5 @@ I am currently employed at Lixiang Auto. Prior to this, I pursued my Master's de
 
 
 ## 📫 Contact
-Email: houchengkai@lixiang.com
+Email: Houchengkai1998@outlook.com
 
