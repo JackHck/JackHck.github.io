@@ -11,10 +11,10 @@ I am currently employed at Lixiang Auto. Prior to this, I pursued my Master's de
 
 ## 📝 Selected Publications
 
-- [When to Learn What: Model-Adaptive Data Augmentation Curriculum]()
+- [When to Learn What: Model-Adaptive Data Augmentation Curriculum](https://arxiv.org/abs/2309.04747)
 <br>**Chengkai Hou**, Jieyu Zhang, Tianyi Zhou.
 <br>*ICCV 2023*.
-- [Subclass-balancing Contrastive Learning for Long-tailed Recognition]()
+- [Subclass-balancing Contrastive Learning for Long-tailed Recognition](https://arxiv.org/abs/2306.15925)
 <br>**Chengkai Hou**, Jieyu Zhang, Haonan Wang, Tianyi Zhou.
 <br>*ICCV 2023*.
 - [Keypoints detection in the Deformable Objects ]()
