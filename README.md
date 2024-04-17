@@ -32,7 +32,7 @@ I am currently employed at Lixiang Auto. Prior to this, I pursued my Master's de
 <br> 2022.06 - 2022.10
 - Lixiang Auto - Algorithm Engineer
 <br> 2023.06 - 2023.10
-- - Shanghai Qi Zhi Institute - Assistant Research 
+- Shanghai Qi Zhi Institute - Assistant Research 
 <br> 2023.11 - Now
 
 
