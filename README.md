@@ -1,10 +1,10 @@
 
-I am currently employed at Lixiang Auto. Prior to this, I pursued my Master's degree, where I had the privilege of being advised by Prof. [Tianyi Zhou](https://tianyizhou.github.io/), [Jieyu Zhang](https://jieyuz2.github.io/), and  [Haonan wang](https://charles-haonan-wang.me/). Currently, I focuse on 3D vision and conduct exciting research projects under the guidance of Prof. [Huazhe Xu](http://hxu.rocks/) and Prof. [Lin Shao](https://linsats.github.io/). 
+I am currently employed at Lixiang Auto. Prior to this, I pursued my Master's degree, where I had the privilege of being advised by Prof. [Tianyi Zhou](https://tianyizhou.github.io/), [Jieyu Zhang](https://jieyuz2.github.io/), and  [Haonan wang](https://charles-haonan-wang.me/). Currently, I focuse on 3D vision and Embodied AI under the guidance of Prof. [Huazhe Xu](http://hxu.rocks/). 
 
 
 
 
-**Research Interests**: My current research interests are **Data-centric AI , 3D vision, Robotic and Automatic Drive**. My academic goal is to advance the widespread adoption of robotic technology in various aspects of human life. Additionally, I aim to conduct research aimed at developing more efficient and reliable AI technologies that contribute to the progress of humanity.
+**Research Interests**: My current research interests are **Data-centric AI , 3D vision, Embodied AI and Automatic Drive**. My academic goal is to advance the widespread adoption of robotic technology in various aspects of human life. Additionally, I aim to conduct research aimed at developing more efficient and reliable AI technologies that contribute to the progress of humanity.
 
 
 **If you are interested in my research and want to discuss relevant research topic or potential collaborations, free to send me an e-mail.😄**
@@ -17,9 +17,9 @@ I am currently employed at Lixiang Auto. Prior to this, I pursued my Master's de
 - [Subclass-balancing Contrastive Learning for Long-tailed Recognition](https://arxiv.org/abs/2306.15925)
 <br>**Chengkai Hou**, Jieyu Zhang, Haonan Wang, Tianyi Zhou.
 <br>*ICCV 2023*.
-- [Keypoints detection in the Deformable Objects ]()
-<br> Coming soon
-<br>*Arxiv*.
+- [Key-Grid: Unsupervised 3D Keypoints Detection using Grid Heatmap Features](https://jackhck.github.io/keygrid.github.io/)
+<br> **Chengkai Hou**, Zhengrong Xue, Bingyang Zhou, Jinghan Ke, Shao Lin, Huazhe Xu.
+<br>*Under Review*.
 
 
 
@@ -31,10 +31,13 @@ I am currently employed at Lixiang Auto. Prior to this, I pursued my Master's de
 - 4Paradigm  - Research Intern
 <br> 2022.06 - 2022.10
 - Lixiang Auto - Algorithm Engineer
-<br> 2023.06 - Now
+<br> 2023.06 - 2023.10
+- - Shanghai Qi Zhi Institute - Assistant Research 
+<br> 2023.11 - Now
+
 
 ## 📍 Professional Services
-- Reviewer: NeurIPS, ICLR, CVPR.
+- Reviewer: NeurIPS, CVPR, TIP.
   
 ## 📫 Contact
 Email: Houchengkai1998@outlook.com
