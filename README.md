@@ -1,5 +1,5 @@
 
-I am currently employed at Lixiang Auto. Prior to this, I pursued my Master's degree, where I had the privilege of being advised by Prof. [Tianyi Zhou](https://tianyizhou.github.io/), [Jieyu Zhang](https://jieyuz2.github.io/), and  [Haonan wang](https://charles-haonan-wang.me/). Currently, I focuse on 3D vision and Embodied AI under the guidance of Prof. [Huazhe Xu](http://hxu.rocks/). 
+I am an incoming PHD student in Peking University， advised by [Shanghang Zhang](https://scholar.google.com/citations?user=voqw10cAAAAJ&hl=en). Prior to this, I pursued my Master's degree, where I had the privilege of being advised by Prof. [Tianyi Zhou](https://tianyizhou.github.io/), [Jieyu Zhang](https://jieyuz2.github.io/), and  [Haonan wang](https://charles-haonan-wang.me/). Currently, I focuse on 3D vision and Embodied AI under the guidance of Prof. [Huazhe Xu](http://hxu.rocks/). 
 
 
 
