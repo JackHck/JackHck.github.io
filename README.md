@@ -19,7 +19,7 @@ I am an incoming PHD student in Peking University, advised by [Shanghang Zhang](
 <br>*ICCV 2023*.
 - [Key-Grid: Unsupervised 3D Keypoints Detection using Grid Heatmap Features](https://jackhck.github.io/keygrid.github.io/)
 <br> **Chengkai Hou**, Zhengrong Xue, Bingyang Zhou, Jinghan Ke, Shao Lin, Huazhe Xu.
-<br>*Under Review*.
+<br>*NeurlPS 2024*.
 
 
 
