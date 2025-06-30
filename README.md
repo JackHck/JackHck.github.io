@@ -20,7 +20,6 @@
 
 
 ## 🎓 Education
-- University of Jilin university - M.S. in Computational Mathematics. 
 - University of Jilin university - B.S. in Information and Computer Science. 
 
 ## 👨‍💻 Industrial Experience
