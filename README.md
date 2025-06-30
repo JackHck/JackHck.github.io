@@ -1,8 +1,4 @@
 
-I am an incoming PHD student in Peking University, advised by [Shanghang Zhang](https://scholar.google.com/citations?user=voqw10cAAAAJ&hl=en). Prior to this, I pursued my Master's degree, where I had the privilege of being advised by Prof. [Tianyi Zhou](https://tianyizhou.github.io/), [Jieyu Zhang](https://jieyuz2.github.io/), and  [Haonan wang](https://charles-haonan-wang.me/). Currently, I focuse on 3D vision and Embodied AI under the guidance of Prof. [Huazhe Xu](http://hxu.rocks/). 
-
-
-
 
 **Research Interests**: My current research interests are **Data-centric AI , 3D vision, Embodied AI and Automatic Drive**. My academic goal is to advance the widespread adoption of AI and robotic technology in various aspects of human life. Additionally, I aim to conduct research aimed at developing more efficient and reliable AI technologies that contribute to the progress of humanity.
 
@@ -30,10 +26,6 @@ I am an incoming PHD student in Peking University, advised by [Shanghang Zhang](
 ## 👨‍💻 Industrial Experience
 - 4Paradigm  - Research Intern
 <br> 2022.06 - 2022.10
-- Lixiang Auto - Algorithm Engineer
-<br> 2023.06 - 2023.10
-- Shanghai Qi Zhi Institute - Research Assistant
-<br> 2023.11 - Now
 
 
 ## 📍 Professional Services
