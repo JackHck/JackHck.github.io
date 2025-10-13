@@ -18,10 +18,6 @@
 <br>*NeurlPS 2024*.
 
 
-
-## 🎓 Education
-- University of Jilin university - B.S. in Information and Computer Science. 
-
 ## 👨‍💻 Industrial Experience
 - 4Paradigm  - Research Intern
 <br> 2022.06 - 2022.10
