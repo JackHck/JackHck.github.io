@@ -49,7 +49,7 @@
 <br> Zeyu Gao, Yao Mu, Jinye Qu, Mengkang Hu, Shijia Peng, **Chengkai Hou**, Lingyue Guo, Ping Luo, Shanghang Zhang, Yanfeng Lu.
 <br> *ICRA 2026*
 - [BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving]
-Dafeng Wei, Tian Gao, Zhengyu Jia, Changwei Cai, **Chengkai Hou**, Peng Jia, Fu Liu, Kun Zhan, Jingchen Fan, Yixing Zhao, Yang Wang.
+<br> Dafeng Wei, Tian Gao, Zhengyu Jia, Changwei Cai, **Chengkai Hou**, Peng Jia, Fu Liu, Kun Zhan, Jingchen Fan, Yixing Zhao, Yang Wang.
 <br> *AAAI 2024*
 
 
