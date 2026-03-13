@@ -39,16 +39,16 @@
 - [Wow: Towards a world omniscient world model through embodied interaction](https://arxiv.org/abs/2509.22642)
 <br> Xiaowei Chi, Peidong Jia, Chun-Kai Fan, Xiaozhu Ju, Weishi Mi, Kevin Zhang, Zhiyuan Qin, Wanxin Tian, Kuangzhi Ge, Hao Li, Zezhong Qian, Anthony Chen, Qiang Zhou, Yueru Jia, Jiaming Liu, Yong Dai, Qingpo Wuwu, Chengyu Bai, Yu-Kai Wang, Ying Li, Lizhang Chen, Yong Bao, Zhiyuan Jiang, Jiacheng Zhu, Kai Tang, Ruichuan An, Yulin Luo, Qiuxuan Feng, Siyuan Zhou, Chi-min Chan, **Chengkai Hou**, Wei Xue, Sirui Han, Yike Guo, Shanghang Zhang, Jian Tang.
 <br> *Under Review*
-- [HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model]
+- [HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model](https://arxiv.org/abs/2503.10631)
 <br> Jiaming Liu, Hao Chen, Pengju An, Zhuoyang Liu, Renrui Zhang, Chenyang Gu, Xiaoqi Li, Ziyu Guo, Sixiang Chen, Mengzhen Liu, **Chengkai Hou**, Mengdi Zhao, KC alex Zhou, Pheng-Ann Heng, Shanghang Zhang.
 <br>*ICLR 2026*
-- [H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos]
+- [H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos](https://arxiv.org/abs/2505.11920)
 <br> Guangrun Li, Yaoxu Lyu, Zhuoyang Liu, **Chengkai Hou**, Jieyu Zhang, Shanghang Zhang.
 <br> *Under Review*
-- [Dag-plan: Generating directed acyclic dependency graphs for dual-arm cooperative planning]
+- [Dag-plan: Generating directed acyclic dependency graphs for dual-arm cooperative planning](https://arxiv.org/abs/2406.09953)
 <br> Zeyu Gao, Yao Mu, Jinye Qu, Mengkang Hu, Shijia Peng, **Chengkai Hou**, Lingyue Guo, Ping Luo, Shanghang Zhang, Yanfeng Lu.
 <br> *ICRA 2026*
-- [BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving]
+- [BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving](https://openreview.net/forum?id=wlqkRFRkYc)
 <br> Dafeng Wei, Tian Gao, Zhengyu Jia, Changwei Cai, **Chengkai Hou**, Peng Jia, Fu Liu, Kun Zhan, Jingchen Fan, Yixing Zhao, Yang Wang.
 <br> *AAAI 2024*
 
