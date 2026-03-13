@@ -19,7 +19,7 @@
 - [Robomind: Benchmark on multi-embodiment intelligence normative data for robot manipulation](https://x-humanoid-robomind.github.io/)
 <br> Wu, Kun and **Chengkai Hou** and Liu, Jiaming and Che, Zhengping and Ju, Xiaozhu and Yang, Zhuqin and Li, Meng and Zhao, Yinuo and Xu, Zhiyuan and Yang, Guang and others.
 <br>*RSS 2025*
-- [4D Pre-training for Real-World Imitation](https://4d-visual-pretraining.github.io/)
+- [4D Visual Pre-training for Robot Learning](https://4d-visual-pretraining.github.io/)
 <br> **Chengkai Hou**, Yue Yu, Songbo Hu,	Yanjie Ze and Huazhe Xu.
 <br>*ICCV 2025*
 - [Robomind 2.0: A multimodal, bimanual mobile manipulation dataset for generalizable embodied intelligence](https://log2r.github.io/RoboMIND2.0/)
