@@ -51,11 +51,12 @@
 - [BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving](https://openreview.net/forum?id=wlqkRFRkYc)
 <br> Dafeng Wei, Tian Gao, Zhengyu Jia, Changwei Cai, **Chengkai Hou**, Peng Jia, Fu Liu, Kun Zhan, Jingchen Fan, Yixing Zhao, Yang Wang.
 <br> *AAAI 2024*
-
-
-## 👨‍💻 Industrial Experience
-- 4Paradigm  - Research Intern
-<br> 2022.06 - 2022.10
+- [LaST0: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model](https://arxiv.org/pdf/2601.05248)
+<br> Zhuoyang Liu, Jiaming Liu, Hao Chen, Jiale Yu, Ziyu Guo, **Chengkai Hou**, Chenyang Gu, Xiangju Mi, Renrui Zhang, Kun Wu, Zhengping Che, Jian Tang, Pheng-Ann Heng, Shanghang Zhang
+<br> *Under Review*
+- [URDF-Anything+ : Autoregressive Articulated 3D Models Generation for Physical Simulation](https://urdf-anything-plus.github.io/)
+<br> Zhuangzhe Wu, Yue Xin, **Chengkai Hou**, Minghao Chen, Yaoxu Lyu, Jieyu Zhang, Shanghang Zhang
+<br> *Under Review*
 
 
 ## 📍 Professional Services
